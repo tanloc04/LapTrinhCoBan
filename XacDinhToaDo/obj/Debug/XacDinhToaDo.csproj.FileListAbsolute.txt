@@ -1,0 +1,7 @@
+D:\CSharpPrograming\LapTrinhCoBan\XacDinhToaDo\bin\Debug\XacDinhToaDo.exe.config
+D:\CSharpPrograming\LapTrinhCoBan\XacDinhToaDo\bin\Debug\XacDinhToaDo.exe
+D:\CSharpPrograming\LapTrinhCoBan\XacDinhToaDo\bin\Debug\XacDinhToaDo.pdb
+D:\CSharpPrograming\LapTrinhCoBan\XacDinhToaDo\obj\Debug\XacDinhToaDo.csproj.AssemblyReference.cache
+D:\CSharpPrograming\LapTrinhCoBan\XacDinhToaDo\obj\Debug\XacDinhToaDo.csproj.CoreCompileInputs.cache
+D:\CSharpPrograming\LapTrinhCoBan\XacDinhToaDo\obj\Debug\XacDinhToaDo.exe
+D:\CSharpPrograming\LapTrinhCoBan\XacDinhToaDo\obj\Debug\XacDinhToaDo.pdb
