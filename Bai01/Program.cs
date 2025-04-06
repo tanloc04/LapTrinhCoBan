@@ -134,7 +134,7 @@ namespace CauTrucLuaChon
                     Console.WriteLine($"{"PRODUCT NAME", -20} | {"PRICE", 12} | {"QUANTITY", 12} | {"TOTAL (R$)", 12}");
                     Console.WriteLine($"{productName,-20} | {price, 12} | {soLuong, 12} | {thanhTien, 12}");
                     break;
-            } */
+            } 
 
             //Bài toán tính lương nhân viên
             Console.Write("Nhập vào lương hiện tại của nhân viên: ");
@@ -145,7 +145,29 @@ namespace CauTrucLuaChon
                 double luongMoi = luongHienTai + luongHienTai * 0.15;
                 Console.WriteLine($"Lương của nhân viên này là: {luongMoi}.");
             }
+            else if (luongHienTai > 400.01 && luongHienTai < 800)
+            {
+                double luongMoi = luongHienTai + luongHienTai * 0.12;
+                Console.WriteLine($"Lương của nhân viên này là: {luongMoi}.");
+            }
+            else if (luongHienTai > 800.01 && luongHienTai < 1200)
+            {
+                double luongMoi = luongHienTai + luongHienTai * 0.10;
+                Console.WriteLine($"Lương của nhân viên này là: {luongMoi}.");
+            }
+            else if (luongHienTai > 1200.01 && luongHienTai < 2000)
+            {
+                double luongMoi = luongHienTai + luongHienTai * 0.07;
+                Console.WriteLine($"Lương của nhân viên này là: {luongMoi}.");
+            }
+            else
+            {
+                double luongMoi = luongHienTai + luongHienTai * 0.04;
+                Console.WriteLine($"Lương của nhân viên này là: {luongMoi}.");
+            }
+            */
 
+            
             Console.ReadKey();
         }
     }

@@ -1,0 +1,7 @@
+D:\CSharpPrograming\LapTrinhCoBan\Ham\bin\Debug\Ham.exe.config
+D:\CSharpPrograming\LapTrinhCoBan\Ham\bin\Debug\Ham.exe
+D:\CSharpPrograming\LapTrinhCoBan\Ham\bin\Debug\Ham.pdb
+D:\CSharpPrograming\LapTrinhCoBan\Ham\obj\Debug\Ham.csproj.AssemblyReference.cache
+D:\CSharpPrograming\LapTrinhCoBan\Ham\obj\Debug\Ham.csproj.CoreCompileInputs.cache
+D:\CSharpPrograming\LapTrinhCoBan\Ham\obj\Debug\Ham.exe
+D:\CSharpPrograming\LapTrinhCoBan\Ham\obj\Debug\Ham.pdb
